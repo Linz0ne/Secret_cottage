@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>sdqwdw</class>
+ <widget class="QDialog" name="sdqwdw">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>327</width>
+    <height>61</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>327</width>
+    <height>61</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>327</width>
+    <height>61</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>锁</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="icons.qrc">
+    <normaloff>:/new/prefix1/pictur/Ninja.png</normaloff>:/new/prefix1/pictur/Ninja.png</iconset>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>81</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>解锁密码：</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditlockssss">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>20</y>
+     <width>113</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonlocksss">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>20</y>
+     <width>93</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>解锁</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="icons.qrc"/>
+ </resources>
+ <connections/>
+</ui>

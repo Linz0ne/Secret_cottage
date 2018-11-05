@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pictur/icon.net.ico</file>
+        <file>pictur/Angry.png</file>
+        <file>pictur/Cool.png</file>
+        <file>pictur/Crazy.png</file>
+        <file>pictur/Embarrassed.png</file>
+        <file>pictur/Ninja.png</file>
+        <file>pictur/Wink.png</file>
+        <file>pictur/Love.png</file>
+        <file>pictur/Sad_cry.png</file>
+        <file>pictur/Ohhmy.png</file>
+    </qresource>
+</RCC>
